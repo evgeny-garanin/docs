@@ -48,7 +48,7 @@ For now, see the below rough specs:
 
 - Processors: 2 cores are fine. Get the fastest CPUs you can afford.
 - RAM: Memory requirements are very low - typically a mix node may use only a few hundred MB of RAM.
-- Disks: The mixnodes require no disk space beyond a few bytes for the configuration files. 
+- Disks: The mixnodes require no disk space beyond a few bytes for the configuration files.
 
 ## Mix node setup and maintenance
 
@@ -534,7 +534,7 @@ This endpoint returns the number of times that the node has been selected from t
 - `identity`: the identity key of the mixnode.
 - `count`: the number of times it has been used for network testing.
 
-## Ports 
+## Ports
 
 All mix node-specific port configuration can be found in `$HOME/.nym/mixnodes/<your-id>/config/config.toml`. If you do edit any port configs, remember to restart your mix node.
 
