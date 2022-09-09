@@ -19,7 +19,7 @@ Now is the time to start building our chat application to use Nym for traffic.
 To get started in this section, you'll need the following.
 
 - Your code editor.
-- A basic understanding of how javascript works.
+- A basic understanding HTML and Javascript is required.
 - Ensure that your nym client node is still running because that is what we will be using.
 
 ###
